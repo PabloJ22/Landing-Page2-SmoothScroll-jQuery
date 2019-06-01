@@ -10,4 +10,4 @@ Created from scratch.
 > CSS3,
 > jQuery
 
-![]()
+![](/images/LP-with-Smooth-Scroll-jQuery.gif)
